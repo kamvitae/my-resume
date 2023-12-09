@@ -1,0 +1,131 @@
+body {
+    background: #f5f7fa;
+    font-family: "Montserrat", sans-serif;
+}
+aside {
+    background: #1e2939;
+    width: 370px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+main {
+    padding: 102px 88px 102px 88px;
+}
+.bold {
+    font-weight: 700;
+}
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.contact-links {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+.CV-photo {
+    margin-top: 25px;
+}
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 40px;
+    color: #595959;
+}
+.header-primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+.header-secondary {
+    color: #ffffff;
+}
+.highlight {
+    color: #fb6d3a;
+}
+.job-name {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.job-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 22px;
+    list-style-position: outside;
+}
+.job-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+}
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+.soft-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.tech-skills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    list-style-position: inside;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.list-secondary-item {
+    color: #ffffff;
+}
+.main-description {
+    width: 400px;
+}
+.period {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.edu_period {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    text-align: right;
+}
+.wrapper {
+    background-color: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0 auto;
+    width: 1200px;
+}
