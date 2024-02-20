@@ -1,3 +1,8 @@
+//<reference types="cypress" />;
+
+Cypress.Commands.add("getByHref", (selector) => {
+    return cy.get(`[href="https://github.com/kamvitae"]`);
+});
 // ***********************************************
 // This example commands.js shows you how to
 // create various custom commands and overwrite
