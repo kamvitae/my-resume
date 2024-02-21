@@ -1,7 +1,7 @@
 //<reference types="cypress" />;
 
 Cypress.Commands.add("getByHref", (selector) => {
-    return cy.get(`[href="https://github.com/kamvitae"]`);
+    return cy.get(`[href=${selector}]`);
 });
 // ***********************************************
 // This example commands.js shows you how to
